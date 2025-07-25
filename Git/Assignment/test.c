@@ -9,3 +9,8 @@ double d=0.0;
 }
 
 //some code from Task1 Branch
+
+void main()
+{
+	print something
+}
